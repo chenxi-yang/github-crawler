@@ -1,4 +1,2 @@
-import urlib
-import urlib2
+from urllib.request import urlopen
 
-url='www.github.com'
